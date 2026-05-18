@@ -1,0 +1,14 @@
+2026-04-27 19:13:19,754 - INFO - Ingesting sales.csv in db -
+2026-04-27 19:13:19,761 - INFO - ------------------Ingestion Complete------------------ -
+2026-04-27 19:13:19,764 - INFO - Total Time Taken: 0.6627041697502136 minutes -
+2026-04-27 19:13:57,185 - INFO - Ingesting begin_inventory.csv in db -
+2026-04-27 19:13:57,758 - INFO - Ingesting end_inventory.csv in db -
+2026-04-27 19:14:07,094 - INFO - Ingesting purchases.csv in db -
+2026-04-27 19:14:07,327 - INFO - Ingesting purchase_prices.csv in db -
+2026-04-27 19:14:49,420 - INFO - Ingesting sales.csv in db -
+2026-04-27 19:14:50,046 - INFO - Ingesting vendor_invoice.csv in db -
+2026-04-27 19:14:50,047 - INFO - ------------------Ingestion Complete------------------ -
+2026-04-27 19:14:50,048 - INFO - Total Time Taken: 0.8929422418276469 minutes -
+2026-04-28 00:34:49,907 - INFO - Ingesting vendor_invoice.csv in db -
+2026-04-28 00:34:53,307 - INFO - ------------------Ingestion Complete------------------ -
+2026-04-28 00:34:53,308 - INFO - Total Time Taken: 0.05722275972366333 minutes -
